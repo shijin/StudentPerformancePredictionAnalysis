@@ -1,4 +1,4 @@
-# Student Performance Prediction Project
+# Predicting Student Performance and Risk of Failure using Data Analytics and Machine Learning
 
 ## 📌 Project Overview
 This project focuses on analyzing and predicting student performance using SQL, Power BI, and Python. The goal is to help schools identify at-risk students early and provide proactive support.
