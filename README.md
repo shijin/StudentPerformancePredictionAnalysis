@@ -38,6 +38,9 @@ Two scenarios:
 - Power BI | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWUzMWQxMTctZTZhMy00MTEyLTg3NzMtZjBjMGU0YjUzNGFmIiwidCI6IjY5NTYyNmRmLWQxMTctNDI3OC1iMzdkLTEyNTJlNGZkOGIwNyJ9)
 - Python (Pandas, Scikit-learn, XGBoost)
 
+## Dataset
+Dataset for this project can be accessed from [Google Drive](https://drive.google.com/file/d/1Z4QdQi266VyPYOycCXBk--yQle1R4W78/view?usp=drive_link)
+
 ## 👤 Author
 Shijin Ramesh | Data Analyst | Passionate about applying data for education impact  
 [LinkedIn](https://www.linkedin.com/in/shijinramesh/) | [Portfolio](https://www.shijinramesh.co.in/)
