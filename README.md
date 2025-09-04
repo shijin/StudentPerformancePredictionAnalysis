@@ -39,5 +39,5 @@ Two scenarios:
 - Python (Pandas, Scikit-learn, XGBoost)
 
 ## 👤 Author
-Shijin Ramesh | Data Analyst | Passionate about applying data for education impact
+Shijin Ramesh | Data Analyst | Passionate about applying data for education impact  
 [LinkedIn](https://www.linkedin.com/in/shijinramesh/) | [Portfolio](https://www.shijinramesh.co.in/)
