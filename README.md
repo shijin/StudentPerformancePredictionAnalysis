@@ -18,8 +18,9 @@ This project focuses on analyzing and predicting student performance using SQL, 
 
 ## 🤖 Predictive Modeling
 Two scenarios:
-1. With Past Scores → Perfect prediction but risk of data leakage.
-2. Without Past Scores → Weak predictive power, highlights data gaps.
+1. SQL Pipeline for Modeling Strategy
+2. With Past Scores → Perfect prediction but risk of data leakage.
+3. Without Past Scores → Weak predictive power, highlights data gaps.
 
 ## 📊 Results
 - Past exam scores are the best predictors.
@@ -34,9 +35,9 @@ Two scenarios:
 
 ## 🛠 Tools Used
 - SQL (Snowflake)
-- Power BI
+- Power BI | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWUzMWQxMTctZTZhMy00MTEyLTg3NzMtZjBjMGU0YjUzNGFmIiwidCI6IjY5NTYyNmRmLWQxMTctNDI3OC1iMzdkLTEyNTJlNGZkOGIwNyJ9)
 - Python (Pandas, Scikit-learn, XGBoost)
 
 ## 👤 Author
 Shijin Ramesh | Data Analyst | Passionate about applying data for education impact
-LinkedIn(https://www.linkedin.com/in/shijinramesh/) | Portfolio(https://www.shijinramesh.co.in/)
+[LinkedIn](https://www.linkedin.com/in/shijinramesh/) | [Portfolio](https://www.shijinramesh.co.in/)
